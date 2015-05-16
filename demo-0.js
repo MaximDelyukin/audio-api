@@ -41,5 +41,5 @@ var stop = function(){
 };
 
 loadSoundFile('https://raw.githubusercontent.com/MaximDelyukin/audio-api/master/car.ogg');
-play();
+//play();
 
